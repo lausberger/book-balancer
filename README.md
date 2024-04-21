@@ -22,6 +22,8 @@ A way to track my finances and also show off some Object-Oriented Programming de
 python book_balancer.py
 ```
 
+4. Results will be generated in `out` directory and separated by month
+
 ## To-Do's
 
 1. Rewrite logic to take advantage of numpy arrays and/or Pandas DataFrames
